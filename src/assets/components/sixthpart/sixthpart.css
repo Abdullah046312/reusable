@@ -1,0 +1,70 @@
+#sixth{
+    background-color: #FEF8E4;
+    padding: 60px 0px;
+    margin-top: 120px;
+}
+
+.twelev{
+    text-align: center;
+}
+
+.twelev h2{
+    font-size: 48px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #2C2643;
+}
+
+.twelev p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+}
+
+.therteen{
+    margin-top: 100px;
+    background-color: wheat;
+    padding: 20px 20px;
+    border-radius: 20px;
+    transform: scale(1);
+    transition: .5s;
+}
+
+.therteen:hover{
+    background-color: #FF7628;
+    transform: scale(1.1);
+}
+
+.therteen h4{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: "Open Sans", sans-serif;
+    color: #2C2643;
+}
+.therteen h3{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Open Sans", sans-serif;
+    color: #2C2643;
+}
+
+.therteen p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+    margin-top: 10px;
+    padding-right: 70px;
+}
+
+.fourteen img{
+    width: 100%;
+    margin-top: 40px;
+    transform: scale(1);
+    transition: .5s;
+}
+
+.fourteen img:hover{
+    transform: scale(1.2);
+}

@@ -1,0 +1,56 @@
+#banner{
+    background-color: #1C1E53;
+    padding: 60px 0px;
+}
+
+.banner_main h2{
+    font-size: 72px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #FFFFFF;
+}
+.banner_main h3{
+    font-size: 72px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    color: #FF7628;
+}
+
+.banner_main p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+    margin-top: 20px;
+    padding-right: 120px;
+}
+
+.banner_main button{
+    padding: 15px 40px;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: "Open Sans", sans-serif;
+    background-color: #FF7628;
+    border-radius: 100px;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 30px;
+    transition: .5s;
+    transform: scale(1);
+    margin-bottom: 60px;
+}
+
+.banner_main button:hover{
+    background-color: #3639A4;
+    transform: scale(1.1);
+}
+.banner_img img{
+   margin-top: 100px;
+   transition: .5s;
+   transform: scale(1);
+   width: 100%;
+}
+
+.banner_img img:hover{
+    transform: scale(1.3);
+}

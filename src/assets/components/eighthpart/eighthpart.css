@@ -1,0 +1,91 @@
+#eighth{
+    background-color: #FEF8E4;
+    padding: 120px 0px;
+}
+.seventeen img{
+    width: 100%;
+    transform: scale(1);
+    transition: .4s;
+   
+}
+
+.seventeen img:hover{
+    transform: scale(1.1);
+
+}
+
+.eightteen{
+    padding-left: 30px;
+}
+.eightteen h4{
+    font-size: 64px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    color: #5F5450;
+}
+
+.eightteen h3{
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #3D3430;
+}
+
+.eightteen p{
+    font-size: 18px;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.nineteen{
+    padding: 40px 0px;
+}
+.nineteen h4{
+    font-size: 64px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    color: #5F5450;
+}
+
+.nineteen h3{
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #3D3430;
+}
+
+.nineteen p{
+    font-size: 18px;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.twenty{
+    padding: 40px 30px;
+}
+.twenty h4{
+    font-size: 64px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    color: #5F5450;
+}
+
+.twenty h3{
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #3D3430;
+}
+
+.twenty p{
+    font-size: 18px;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+
+

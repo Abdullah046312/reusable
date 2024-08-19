@@ -1,0 +1,94 @@
+#seventhth{
+    background-color: #EDF3F7;
+    padding: 120px 0px;
+}
+
+.fiveteen{
+    text-align: center;
+}
+
+.fiveteen h4{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #FD5F36;
+}
+
+.fiveteen h2{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+
+
+.sixteen{
+    background-color: #FFD7C8;
+    padding: 40px 40px;
+    margin-top: 60px;
+    transition: .5s;
+    transform: scale(1);
+    -webkit-box-shadow: -1px -1px 11px 5px rgba(0,0,0,0.58);
+-moz-box-shadow: -1px -1px 11px 5px rgba(0,0,0,0.58);
+box-shadow: -1px -1px 11px 5px rgba(0,0,0,0.58);
+}
+
+.sixteen:hover{
+    background-color: #FD5F36;
+    transform: scale(1.1);
+}
+
+
+.sixteen h4{
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+
+.sixteen p{
+    font-size: 17px;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.sixteen h2{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    color: #29313D;
+}
+
+.sixteen button{
+    padding: 10px 30px;
+    background-color: #FD5F36;
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-radius: 18px;
+    border: none;
+    transition: .5s;
+    transform: scale(1);
+}
+
+.sixteen button:hover{
+    background-color: #8454F5;
+    border: yellow;
+    transform: scale(1.1);
+}
+
+.sixteen h5{
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 400;
+    color: #29313D;
+    margin-top: 20px;
+}
+
+
+

@@ -1,0 +1,52 @@
+#third{
+    background-color: #FBF3F0;
+    padding: 60px 0px;
+    margin-top: 60px;
+}
+
+.six{
+    text-align: center;
+}
+
+.six h2{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: "Open Sans", sans-serif;
+    color: #202427;
+}
+
+.six p{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: "Paprika", system-ui;
+    color: #6C7D93;
+    
+}
+.seven{
+    margin-top: 30px;
+    transition: .5s;
+    transform: scale(1);
+}
+
+.seven:hover{
+    background-color: #D6A033;
+    transform: scale(1.1);
+}
+.seven img{
+    width: 100%;
+    
+}
+
+.seven h4{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Open Sans", sans-serif;
+    color: rgba(41, 49, 61, 0.795);
+    margin-top: 20px;
+}
+.seven h2{
+    font-size: 28px;
+    font-weight: 600;
+    font-family: "Paprika", system-ui;
+    color: #29313D;
+}
